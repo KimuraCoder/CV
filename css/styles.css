@@ -1,0 +1,23 @@
+/********************************TAG SELECTOR********************************/
+
+body {
+  background-color: #E7F6F2;
+}
+
+hr {
+  background-color: #E7F6F2;
+  border-color: #DDDDDD;
+  border-style: dotted none none;
+  border-width: 7.5px;
+  width: 40px;
+
+}
+
+
+/********************************CLASS SELECTOR********************************/
+
+.podnaslov {
+  font-family: default;
+  font-size: 15px;
+    }
+    .kontakt :hover {background-color: gold;}
